@@ -21,7 +21,7 @@ const App = () => {
 const styles: Record<string, React.CSSProperties> = {
     app: {
         minHeight: "100vh",
-        backgroundColor: "rgb(25,25,25)",
+        backgroundColor: "rgb(26,25,25)",
         color: "white"
     },
 
