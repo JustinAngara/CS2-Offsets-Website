@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://justinangara.github.io/CS2-Offsets-Website/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
