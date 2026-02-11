@@ -1,32 +1,11 @@
 {
   "data": [
     {
-      "Items": 4,
+      "Items": 0,
       "Key": 0,
-      "List": [
-        {
-          "Name": "LOGIC_BRANCH_LISTENER_NOT_INIT",
-          "Offset": "0x0",
-          "Type": ""
-        },
-        {
-          "Name": "LOGIC_BRANCH_LISTENER_ALL_TRUE",
-          "Offset": "0x1",
-          "Type": ""
-        },
-        {
-          "Name": "LOGIC_BRANCH_LISTENER_ALL_FALSE",
-          "Offset": "0x2",
-          "Type": ""
-        },
-        {
-          "Name": "LOGIC_BRANCH_LISTENER_MIXED",
-          "Offset": "0x3",
-          "Type": ""
-        }
-      ],
-      "Name": "",
-      "Type": "ENUM CLASS"
+      "List": null,
+      "Name": "cs2_dumper",
+      "Type": "NAMESPACE"
     },
     {
       "Items": 3,
