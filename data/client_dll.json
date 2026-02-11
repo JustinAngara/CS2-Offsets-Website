@@ -1,37 +1,11 @@
 {
   "data": [
     {
-      "Items": 5,
+      "Items": 0,
       "Key": 0,
-      "List": [
-        {
-          "Name": "WATER_WAKE_NONE",
-          "Offset": "0x0",
-          "Type": ""
-        },
-        {
-          "Name": "WATER_WAKE_IDLE",
-          "Offset": "0x1",
-          "Type": ""
-        },
-        {
-          "Name": "WATER_WAKE_WALKING",
-          "Offset": "0x2",
-          "Type": ""
-        },
-        {
-          "Name": "WATER_WAKE_RUNNING",
-          "Offset": "0x3",
-          "Type": ""
-        },
-        {
-          "Name": "WATER_WAKE_WATER_OVERHEAD",
-          "Offset": "0x4",
-          "Type": ""
-        }
-      ],
-      "Name": "",
-      "Type": "ENUM CLASS"
+      "List": null,
+      "Name": "cs2_dumper",
+      "Type": "NAMESPACE"
     },
     {
       "Items": 2,
